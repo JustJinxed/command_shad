@@ -16,7 +16,7 @@
 
 
 # Version: 1.0a
-# Author: jusjinxed on Discord / github
+# Author: justjinxed on github
 # License: This software is licensed under the MIT license.
 # Project home: https://github.com/JustJinxed/command_shad
 # Credits: shadow_absorber of the Frakin Universe team on Discord for the very idea and encouragement
